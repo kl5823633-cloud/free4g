@@ -1,0 +1,2 @@
+rootProject.name = "Free4G"
+include ':app'
